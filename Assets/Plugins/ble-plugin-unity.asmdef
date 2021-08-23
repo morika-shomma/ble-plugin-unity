@@ -1,3 +1,13 @@
-﻿{
-	"name": "ble-plugin-unity"
-}
+{
+    "name": "ble-plugin-unity",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+} 
